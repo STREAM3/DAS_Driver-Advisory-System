@@ -15,7 +15,9 @@ To check the results you need to first select a certain point. A point in this c
  
 ### Online GUI
 The Online GUI is to test the already generated binary file. It basically performs a simplified process which is to be done on the android application. 
- ![33](https://cloud.githubusercontent.com/assets/22883668/19650829/ed0d86ba-9a0a-11e6-84e9-b8a39cc6168b.png)
+
+![33](https://cloud.githubusercontent.com/assets/22883668/19650829/ed0d86ba-9a0a-11e6-84e9-b8a39cc6168b.png)
+ 
  To use the currently available binary file it should be first selected by pushing the “select file” button (1). To read the file push “Import Binary File” button (2). The boxes “Online Input” and “Results” are the same as the ones in the Main GUI. 
 
 ## MATLAB Script Files 
